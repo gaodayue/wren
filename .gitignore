@@ -16,3 +16,7 @@ scratch.wren
 
 # The baseline file is machine-specific, so doesn't get checked in.
 benchmark/baseline.txt
+
+tags
+cscope*
+NOTES
